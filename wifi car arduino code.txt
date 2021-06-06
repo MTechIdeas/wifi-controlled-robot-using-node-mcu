@@ -3,7 +3,7 @@ Code Name: Arduino Wifi Control Car
 Code URI: https://circuitbest.com/category/arduino-projects/
 Additional Board Manager URL: http://arduino.esp8266.com/stable/package_esp8266com_index.json 
 Install: ESP8266 by ESP8266 Community
-Author: Make DIY
+Author: M Tech-Ideas
 Author URI: https://circuitbest.com/author/admin/
 Description: This program is used to control a robot using a app
 that communicates with Arduino through a ESP8266 Module.
